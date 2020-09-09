@@ -1,1 +1,1 @@
-Hello Git and GitHub TEST TEST TEST
+Hello Git and GitHub
